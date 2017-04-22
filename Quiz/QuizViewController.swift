@@ -8,6 +8,7 @@
 
 import UIKit
 
+
 class QuizViewController: UIViewController {
     //クイズを格納する配列
     var quizArray = [[Any]]()
